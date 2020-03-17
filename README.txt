@@ -9,3 +9,5 @@
 5. Crear fichero de credenciales
   C:\Users\USER_NAME\.aws\credentials
 6. Cargar credenciales
+
+SRC = https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/sqs-examples.html
